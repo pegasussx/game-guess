@@ -37,5 +37,3 @@ Advanced Game options:
 - 6 Boards are placed on the table in 3 columns and 3 rows.
 - Each Player plays his/her Action for 6 times and then the next one.
 
-## License
-Copyright 2021 Theodoros Ploumis - All rights reserved.
